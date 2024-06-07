@@ -1,2 +1,2 @@
-# BI
+# Dashboards
 POWER BI DASHBOARDS
